@@ -1,5 +1,5 @@
-# !!!Resoltion!!!
-Abandon project if it's not completed by to-morrow(26th June, 2020).
+# !!!Resolution!!!
+Abort this project if it's not completed by to-morrow(26th June, 2020).
 
 # NTM
 
