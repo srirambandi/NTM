@@ -1,6 +1,3 @@
-# !!!Resolution!!!
-Abort this project if it's not completed by to-morrow(26th July, 2020).
-
 # NTM
 
 Implementation of Neural Turing Machines with my [ai](https://github.com/srirambandi/ai) library
