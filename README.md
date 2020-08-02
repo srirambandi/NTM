@@ -1,6 +1,6 @@
 # NTM
 
-Implementation of Neural Turing Machines with my [ai](https://github.com/srirambandi/ai) library
+Implementation of [Neural Turing Machines](https://arxiv.org/abs/1410.5401) paper with my [ai](https://github.com/srirambandi/ai) library
 
 ### License
 
